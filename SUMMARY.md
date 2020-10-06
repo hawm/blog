@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hello World!](README.md)
+* [你好世界！](README.md)
 
 ## Discourse
 
